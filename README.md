@@ -20,4 +20,4 @@
 
 ###
 
-<p align="left">I'm Tanmay Gupta from Dimapur, Nagaland<br><br>- 🔭 I’m working as Test Associate<br>- 📚 I'm currently learning Full Stack Development<br>- ⚡ In my free time I listen to podcasts and read articles about Astronomy</p>
+<p align="left">I'm Tanmay Gupta from Dimapur, Nagaland<br><br>- 🔭 I’m currently working as Test Associate<br>- 📚 I'm currently learning Full Stack Development<br>- ⚡ In my free time I listen to podcasts and read articles about Astronomy<br>- 📫 You can reach me on - gupta.tanmay.tg@gmail.com</p>
