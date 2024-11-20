@@ -18,7 +18,7 @@ I am continuously improving my skills in both frontend and backend development w
 
 ## 🌟 Featured Projects
 
-### 1. [📈 COVID-19 Detection Using CNN](https://github.com/tanmaygupta07/COVID-19-Detection-using-CNN)
+### 1. [📈 COVID-19 Detection Using CNN]
 - **Description**: A machine learning project leveraging CNNs to detect COVID-19 from X-ray images.
 - **Tech Stack**: Python, TensorFlow, Keras
 - **Features**:
