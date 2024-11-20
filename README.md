@@ -18,7 +18,16 @@ I am continuously improving my skills in both frontend and backend development w
 
 ## 🌟 Featured Projects
 
-### 1. [🎥 Movie Ticketing System](https://tanmaygupta07.github.io/Movie-Ticketing-System/)
+### 1. [📈 COVID-19 Detection Using CNN](https://github.com/tanmaygupta07/COVID-19-Detection-using-CNN)
+- **Description**: A machine learning project leveraging CNNs to detect COVID-19 from X-ray images.
+- **Tech Stack**: Python, TensorFlow, Keras
+- **Features**:
+  - Image preprocessing and augmentation.
+  - Model training and accuracy reporting.
+- [GitHub Repository](https://github.com/tanmaygupta07/COVID-19-DETECTION-USING-CNN)
+
+
+### 2. [🎥 Movie Ticketing System](https://tanmaygupta07.github.io/Movie-Ticketing-System/)
 - **Description**: A movie booking system with an interactive and user-friendly interface.  
 - **Tech Stack**: Node.js, React, MongoDB  
 - **Features**:
@@ -27,20 +36,22 @@ I am continuously improving my skills in both frontend and backend development w
 - [GitHub Repository](https://github.com/tanmaygupta07/Movie-Ticketing-System)
 
 
-### 2. [💼 Job Portal](https://github.com/tanmaygupta07/Job-Portal)
-- **Description**: A platform for job seekers and recruiters with secure login functionality.  
-- **Tech Stack**: Node.js, MongoDB, Bootstrap  
+### 3. [💼 Job Portal](https://github.com/tanmaygupta07/Job-Portal)
+- **Description**: A web platform for job seekers and recruiters with secure authentication.
+- **Tech Stack**: Node.js, MongoDB, Bootstrap
 - **Features**:
-  - Role-based access for job seekers and recruiters.
-  - Job posting and application tracking.
+  - Role-based authentication.
+  - CRUD operations for jobs.
+- [GitHub Repository](https://github.com/tanmaygupta07/Job_Portal)
 
 
-### 3. [🛍️ E-Commerce API](https://github.com/tanmaygupta07/E-Com-API)
-- **Description**: A backend service for e-commerce applications, providing product, order, and cart management.  
-- **Tech Stack**: Node.js, Express.js, MongoDB  
+### 4. [🛍️ E-Commerce API](https://github.com/tanmaygupta07/E-Com-API)
+- **Description**: A backend system providing APIs for e-commerce functionalities.
+- **Tech Stack**: Node.js, Express.js, MongoDB
 - **Features**:
-  - Add products to the cart.
-  - Place and manage orders.  
+  - Product and order management.
+  - Shopping cart operations.
+  - User authentication.  
 - [GitHub Repository](https://github.com/tanmaygupta07/E-Com-API)
 
 
