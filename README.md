@@ -24,16 +24,15 @@ I am continuously improving my skills in both frontend and backend development w
 - **Features**:
   - Image preprocessing and augmentation.
   - Model training and accuracy reporting.
-- [GitHub Repository](https://github.com/tanmaygupta07/COVID-19-DETECTION-USING-CNN)
 
 
-### 2. [🎥 Movie Ticketing System](https://tanmaygupta07.github.io/Movie-Ticketing-System/)
+### 2. [🎥 Movie Ticketing System](https://github.com/tanmaygupta07/Movie-Ticketing-System)
 - **Description**: A movie booking system with an interactive and user-friendly interface.  
 - **Tech Stack**: Node.js, React, MongoDB  
 - **Features**:
   - Search for movies and book tickets.
   - Manage reservations.  
-- [GitHub Repository](https://github.com/tanmaygupta07/Movie-Ticketing-System)
+- [Live Demo](https://tanmaygupta07.github.io/Movie-Ticketing-System/)
 
 
 ### 3. [💼 Job Portal](https://github.com/tanmaygupta07/Job_Portal)
@@ -42,7 +41,7 @@ I am continuously improving my skills in both frontend and backend development w
 - **Features**:
   - Role-based authentication.
   - CRUD operations for jobs.
-- [GitHub Repository](https://github.com/tanmaygupta07/Job_Portal)
+- [Live Demo](https://job-portal-sp3c.onrender.com/)
 
 
 ### 4. [🛍️ E-Commerce API](https://github.com/tanmaygupta07/E-Com-API)
@@ -52,7 +51,6 @@ I am continuously improving my skills in both frontend and backend development w
   - Product and order management.
   - Shopping cart operations.
   - User authentication.  
-- [GitHub Repository](https://github.com/tanmaygupta07/E-Com-API)
 
 
 ## 📫 Contact Me
