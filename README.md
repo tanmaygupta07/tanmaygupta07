@@ -55,7 +55,7 @@ I am continuously improving my skills in both frontend and backend development w
 
 ## 📫 Contact Me
 
-- **LinkedIn**: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/tanmay-gupta-a62391240/) 
+- **LinkedIn**: [https://www.linkedin.com/in/tanmay-gupta-a62391240/](https://www.linkedin.com/in/tanmay-gupta-a62391240/) 
 - **Email**: [gupta.tanmay.tg07@gmail.com](mailto:gupta.tanmay.tg07@gmail.com)
 
 
