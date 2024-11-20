@@ -1,23 +1,69 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/98659927?s=400&u=3da58394b6901dc16a0f2ced4ff37e1574e6d482&v=4"  />
-</div>
+# 👋 Hi, I'm Tanmay Gupta!
 
-###
+🌐 **Web Developer** | 💻 **Building Scalable and Interactive Applications**  
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/tanmay-gupta-a62391240/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a href="https://twitter.com/TanmayG23634050"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+I'm a passionate web developer with a knack for creating user-friendly, responsive, and scalable web applications. With expertise in frontend and backend technologies, I aim to deliver seamless and intuitive digital experiences.
 
+---
 
-###
+## 🛠️ Tech Stack
 
-<h1 align="center"> Hey there 👋</h1>
+- **Languages**: HTML, CSS, JavaScript, Python  
+- **Frontend**: React, Bootstrap  
+- **Backend**: Node.js, Express.js  
+- **Databases**: MongoDB  
+- **Tools**: Git, Postman, Swagger  
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 🌟 Featured Projects
 
-###
+### 1. [🎥 Movie Ticketing System](https://tanmaygupta07.github.io/Movie-Ticketing-System/)
+- **Description**: A functional booking system for reserving movie tickets with a clean and interactive UI.
+- **Tech Stack**: Node.js, React, MongoDB
+- **Features**:
+  - Search and select movies.
+  - Book and manage tickets.
+- [GitHub Repository](https://github.com/tanmaygupta07/Movie-Ticketing-System)
 
-<p align="left">I'm Tanmay Gupta from Dimapur, Nagaland<br><br>- 🔭 I’m currently working as Test Associate<br>- 📚 I'm currently learning Full Stack Development<br>- ⚡ In my free time I listen to podcasts and read articles about Astronomy<br>- 📫 You can reach me on - <a href = "mailto:gupta.tanmay.tg@gmail.com">gupta.tanmay.tg@gmail.com</p>
+---
+
+### 2. [📈 COVID-19 Detection Using CNN](https://github.com/tanmaygupta07/COVID-19-Detection-using-CNN)
+- **Description**: A machine learning project leveraging CNNs to detect COVID-19 from X-ray images.
+- **Tech Stack**: Python, TensorFlow, Keras
+- **Features**:
+  - Image preprocessing and augmentation.
+  - Model training and accuracy reporting.
+
+---
+
+### 3. [💼 Job Portal](https://github.com/tanmaygupta07/Job-Portal)
+- **Description**: A web platform for job seekers and recruiters with secure authentication.
+- **Tech Stack**: Node.js, MongoDB, Bootstrap
+- **Features**:
+  - Role-based authentication.
+  - CRUD operations for jobs.
+
+---
+
+### 4. [🛍️ E-Commerce API](https://github.com/tanmaygupta07/E-Com-API)
+- **Description**: A backend system providing APIs for e-commerce functionalities.
+- **Tech Stack**: Node.js, Express.js, MongoDB
+- **Features**:
+  - Product and order management.
+  - Shopping cart operations.
+  - User authentication.
+
+---
+
+## 📈 GitHub Stats
+
+![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanmaygupta07&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaygupta07&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
