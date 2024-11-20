@@ -18,7 +18,7 @@ I am continuously improving my skills in both frontend and backend development w
 
 ## 🌟 Featured Projects
 
-### 1. [📈 COVID-19 Detection Using CNN]
+### 1. [📈 COVID-19 Detection Using CNN](https://github.com/tanmaygupta07/COVID-19-DETECTION-USING-CNN)
 - **Description**: A machine learning project leveraging CNNs to detect COVID-19 from X-ray images.
 - **Tech Stack**: Python, TensorFlow, Keras
 - **Features**:
@@ -36,7 +36,7 @@ I am continuously improving my skills in both frontend and backend development w
 - [GitHub Repository](https://github.com/tanmaygupta07/Movie-Ticketing-System)
 
 
-### 3. [💼 Job Portal](https://github.com/tanmaygupta07/Job-Portal)
+### 3. [💼 Job Portal](https://github.com/tanmaygupta07/Job_Portal)
 - **Description**: A web platform for job seekers and recruiters with secure authentication.
 - **Tech Stack**: Node.js, MongoDB, Bootstrap
 - **Features**:
